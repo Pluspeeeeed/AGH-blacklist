@@ -1,0 +1,32 @@
+# reg
+@@/.*speedtest.*/$important
+# shopping
+@@||im-x.jd.com^$important
+@@||wl.jd.com^$important
+@@||ipassport.ele.me^$important'
+@@||wl.jd.com^$important'
+@@||tbskip.taobao.com^$important
+@@||amos.alicdn.com^$important
+@@||tui.taobao.com^$important
+@@||ju.taobao.com^$important
+# ms
+@@||vortex.data.microsoft.com^$important
+@@||mobile.pipe.aria.microsoft.com^$important
+@@||self.events.data.microsoft.com^$important
+# miui
+@@||api.sec.miui.com^$important
+@@||resolver.msg.xiaomi.net^$important
+@@||api.jr.mi.com^$important
+@@||update.avlyun.sec.miui.com^$important
+@@||resolver.gslb.mi-idc.com^$important
+@@||pdc.micloud.xiaomi.net^$important
+#tencent
+@@||cdn.ark.qq.com^$important
+@@||minorshort.weixin.qq.com^$important
+@@||thirdwx.qlogo.cn^$important
+@@||a1.qpic.cn^$important
+@@||wxsnsdy.wxs.qq.com^$important
+@@||collector.weiyun.com^$important
+# misc
+@@||wiki.ad-gone.com^$important
+@@||open.e.189.cn^$important
