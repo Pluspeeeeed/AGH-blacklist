@@ -1,0 +1,83 @@
+# lan
+#||168.192.in-addr.arpa
+#||0.8.e.f.ip6.arpa
+||https://ynuf.aliapp.org/savewb.json?.lan^$important
+||[2409.lan^$important
+/.*(com|net|org|cn|srv|arpa|wpad|co|tv|io|tk|cloud)\.lan/
+/xn--.*\.lan/
+# reg
+/.*umc\.danuoyi(\-|\.)/
+/.*(b|m)trace(\-|\.)/
+# /.*ocsp(\-|\.)/
+/.*tongji(\-|\.)/
+/.*httpdns(\-|\.)/
+/.*telemetry(\-|\.)/
+/.*analytic(\-|\.|s)/
+/.*counter(\-|\.|s)/
+/.*adservice(\-|\.|s)/
+# /.*track(ing)?(\-|\.)/
+# /.*collect(or)?(\-|\.)/
+/.*[^(lo)|(re)|(wp)|(yun)]ad\./
+/.*[^(cata)|(b)]log(\-|\.|s)[^(lb)]/
+# miui
+||tracking.intl.miui.com^$important
+||tracking.miui.com
+||null.api.io.mi.com^$important
+#ott
+||t7z.cupid.ptqy.gitv.tv^$important'
+||atianqi.com^$important
+||bdbus-turbonet.baidu.com^$important
+||ota.baidu.com^$important
+||res.hoisin.coocaatv.com^$important
+||hoisin.coocaatv.com^$important
+||data-hoisin.coocaa.com^$important
+||hoisin.coocaa.com^$important
+||wx.coocaa.com^$important
+||qr.coocaa.com^$important
+||business.video.tc.skysrt.com^$important
+||clog.skysrt.com^$important
+||szbdyd.com^$important
+||node.ppio.cloud^$important
+||hcdn.ptqy.gitv.tv^$important
+||cl-dl.cc0808.com^$important
+||t002.ottcn.com^$important
+||bidpmx.ssp.chinavivaki.com^$important
+||tvax3.sinaimg.cn^$important
+||tvax4.sinaimg.cn^$important
+||vipauth.hpplay.cn^$important
+||logrp.hpplay.cn^$important
+#tencent
+||dns.weixin.qq.com^$important
+||szextshort.weixin.qq.com^$important
+||hkminorshort.weixin.qq.com^$important
+||h.trace.qq.com^$important
+||ts.qq.com^$important
+||sv-video.play.aiseet.atianqi.com^$important
+||tbsrecovery.imtt.qq.com^$important
+||tdid.m.qq.com^$important
+# kwai
+||amdc.alipay.com^$important
+||conf.qvb.qcloud.com^$important
+||cloudlive-xp2p.kpl.qq.com^$important
+||sdkoptedge.chinanetcenter.com^$important
+||tracker.pcdn.yximgs.com^$important
+||pcdn.yximgs.com^$important
+||vdd.qq.com^$important
+||tx-game.pull.yximgs.com^$important
+||st.soyoung.com^$important
+||push.yximgs.com^$important
+# bytedance
+/.*pglstatp\-toutiao\.com/
+/.*pangolin\-sdk\-toutiao\.com/
+||dig.bdurl.net^$important
+||monsetting.toutiao.com^$important
+#/push-rtmp.*/
+#||rtc-test.byted.org^$important
+||p2cdn.com^$important
+# misc
+||bd.yyxxs.cn^$important
+||shdengyong.com^$important
+||web-player-tracker.biliapi.net^$important
+||tracker.dcdn.baidu.com^$important
+||adtracker.surge.alibaba.com^$important
+||arms-retcode.aliyuncs.com^$important
