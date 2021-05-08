@@ -42,8 +42,6 @@
 ||cl-dl.cc0808.com^$important
 ||t002.ottcn.com^$important
 ||bidpmx.ssp.chinavivaki.com^$important
-||tvax3.sinaimg.cn^$important
-||tvax4.sinaimg.cn^$important
 ||vipauth.hpplay.cn^$important
 ||logrp.hpplay.cn^$important
 #tencent
